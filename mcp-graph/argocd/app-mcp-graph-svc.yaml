@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/jrojas-pena/Arquitectura-software-Actividad-3
+    repoURL: https://github.com/jrojas-pena/arquitectura-software-actividad3-infra
     targetRevision: main
     path: mcp-graph/charts/mcp-graph-svc
     helm:
